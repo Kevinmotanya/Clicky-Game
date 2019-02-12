@@ -4,9 +4,9 @@
 
 This is a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
-### Instructions
+### How To
 
-1. Check out the [example solution](https://clicky-game.netlify.com/) and study the app's basic functionality.
+1. Check out this [example solution](https://clicky-game.netlify.com/) to better understand the app's basic functionality.
 
 2. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
 
