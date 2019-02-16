@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import rabbits from '.rabbits.json'
+import rabbits from './rabbits.json'
 
 import Wrapper from './components/Wrapper'
 import Navig from './components/Navig'
