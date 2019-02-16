@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alaskan",
+        "image": "https://www.thesprucepets.com/thmb/2oXmOuCyo6RWrXDd-LJ1RKtCIjo=/2278x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alaska_schwarz-5c0da4e046e0fb00016992f0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cinnamon",
+        "image": "https://www.thesprucepets.com/thmb/LpOdfwoN20H7giL49U76coUDDmo=/2806x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/-spice-of-the-show-rabbit--623728730-5c0bf220c9e77c000185b4de.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Creme D'argent",
+        "image": "https://www.thesprucepets.com/thmb/ygi0mzNj5zChSAfGz35gvuWzesg=/2806x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/creme-d-argent-rabbit-on-blanket-623728726-5c0bf32646e0fb00016cbc11.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dutch",
+        "image": "https://www.thesprucepets.com/thmb/dN0mkddqkRzCHrFgyl6wLCcio-s=/2082x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/red-brown-rabbit-637004946-5c0bf33d46e0fb0001e8fe34.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dwarf Hortot",
+        "image": "https://www.thesprucepets.com/thmb/Epg9MZFY6VhALxW74l1z1MMxMfE=/2250x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/white-rabbit-in-grass-508780398-5c0bf3a9c9e77c0001c8d6d3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "French Lop",
+        "image": "https://www.thesprucepets.com/thmb/x97JshAEmc6ki29rB47TDoKEKsg=/4500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tri-color-spotted-french-lop-rabbit-137690369-5c0daa1146e0fb00013860b5.jpg"
+    }
+]

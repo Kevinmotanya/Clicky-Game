@@ -1,10 +1,10 @@
 import React from "react";
 import "./Navig.css";
 
-const Navpills = props => (
+const Navig = props => (
     <div>
         <ul className="nav navigs nav-justified">
-            <li><a href="/">Dog Clicky Game</a></li>
+            <li><a href="/">Rabbit Clicky Game</a></li>
             <li
                 className={props.message.indexOf('incorrectly') !== -1 ? 
                     "desc-incorrect" : 
@@ -19,4 +19,4 @@ const Navpills = props => (
     </div>
 );
 
-export default Navpills;
+export default Navig;
